@@ -7,8 +7,7 @@
     <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        
-            <h1> Dipen grg</h1>
+        <h1> Dipen grg</h1>
             <p>My name is Dipendra. I'm a frontend developer currently 
             working as an intern at SmartSites, on the Non-TD team, since March 15.
             In my time here, I've been learning how SEO works and how to implement it on
