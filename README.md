@@ -3,7 +3,7 @@
 <head>
     </head>
     <body>
-         <h1>introduction </h1>
+         <h1>Introduction </h1>
         <h2> Dipen grg</h2>
         <p>I'm new to the tech field, and that's exactly what drives my passion for 
         learning new technologies and constantly improving my skills. 
