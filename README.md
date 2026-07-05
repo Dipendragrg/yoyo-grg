@@ -20,7 +20,5 @@
         In my free time, I enjoy reading tech blogs, exploring open-source projects, 
         and experimenting with new programming languages. I believe in continuous 
         learning and staying up to date with the latest trends in web development.</p>
-       
-        
         </body>
         </html>
