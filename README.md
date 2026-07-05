@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title> Dipendra|My introduction </title>
     </head>
     <body>
         <h1> Dipen grg</h1>
