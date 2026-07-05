@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
     <title> Dipendra|My introduction </title>
-    <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <h1> Dipen grg</h1>
